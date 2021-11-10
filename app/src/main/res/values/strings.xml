@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Bmi Calculator</string>
+    <string name="weight">وزن</string>
+    <string name="height">قد</string>
+    <string name="calculate">محاسبه  BMI</string>
+    <string name="detail">لطفا وزن و قد خود را صحیح ثبت کنید</string>
+    <string name="woman">خانم</string>
+    <string name="age">سن</string>
+    <string name="man">آقا</string>
+    <string name="trueAge">لطفا سن خود را درست وارد کنید</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="enter_detail">اطلاعات خود را وارد کنید !</string>
+    <string name="status">وضعیت شما :</string>
+    <string name="to">تا</string>
+    <string name="normal_weight">وزن متناسب با قد شما :</string>
+    <string name="fat3">چاقی شدید</string>
+    <string name="fat2">چاقی زیاد</string>
+    <string name="fat">چاق</string>
+    <string name="overweight">اضافه وزن</string>
+    <string name="normal">عادی</string>
+    <string name="underweight">کمبود وزن کم</string>
+    <string name="underweight2">کمبود وزن متوسط</string>
+    <string name="underweight3">کمبود وزن شذیذ</string>
+    <string name="inserttrue">لطفا اطلاعات را درست وارد کنید</string>
+    <string name="onecheck">لطفا یک گزینه را انتخاب کنید</string>
+</resources>

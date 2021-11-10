@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+   <item android:title="درباره ما"
+        android:icon="@drawable/ic_about"
+        android:id="@+id/about">
+    </item>
+
+        <item android:title="گزارش اشکال"
+        android:icon="@drawable/ic_bug"
+        android:id="@+id/bug">
+    </item>
+
+        <item android:title="خروج"
+            android:icon="@drawable/ic_exit"
+            android:id="@+id/exit">
+        </item>
+
+
+</menu>

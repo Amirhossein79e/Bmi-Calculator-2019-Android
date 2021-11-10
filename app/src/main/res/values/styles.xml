@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/md_light_green_A700</item>
+        <item name="colorPrimaryDark">@color/md_green_A700</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textSize">@dimen/sp18</item>
+        <item name="android:actionMenuTextColor">@color/md_black_1000</item>
+        <item name="drawerArrowStyle">@style/toggle</item>
+        <item name="fontFamily">@font/yekan</item>
+    </style>
+
+    <style name="toggle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">@color/md_white_1000</item>
+    </style>
+
+    <dimen name="sp20">20sp</dimen>
+</resources>
